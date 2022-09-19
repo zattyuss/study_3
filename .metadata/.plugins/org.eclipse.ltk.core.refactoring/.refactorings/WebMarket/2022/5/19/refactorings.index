@@ -1,0 +1,15 @@
+1651555697905	Move 2 resources to 'WEB-INF'
+1651555710267	Move 2 resources to 'webapp'
+1651555714229	Move 'products.jsp' to 'webapp'
+1651555716197	Move 'web.xml' to 'lib'
+1651556452209	Move 'jstl-1.2.jar' to 'lib'
+1651556486396	Move 'web.xml' to 'webapp'
+1651556501187	Move 2 resources to 'WEB-INF'
+1651556572787	Copy file
+1651556597310	Move 3 resources to 'webapp'
+1651556605799	Move 'web.xml' to 'WEB-INF'
+1651806410504	Rename resource 'image'
+1651806413348	Move 3 resources to 'images'
+1651806450857	Delete element
+1651807656242	Delete element
+1651815538262	Delete elements

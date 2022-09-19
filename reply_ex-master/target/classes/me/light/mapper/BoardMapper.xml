@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="me.light.mapper.BoardMapper">
+  
+  <select id="getList" resultType="me.light.model.Board">
+    select * from board_tbl 
+  </select>
+  
+  <resultMap type="me.light.model.Board" id="boardResult">
+  	<result property="bno" column="bno"/>
+  	<result property="title" column="title"/>
+  	<result property="content" column="content"/>
+  	<result property="regDate" column="regDate"/>
+  	<result property="updateDate" column="updateDate"/>
+  	<result property="replyCnt" column="replyCnt"/>
+  	<collection property="replyList" column="bno"
+  				javaType="java.util.ArrayList" ofType="me.light.model.Reply"
+  				select="getReplyList"/>
+  </resultMap>
+   
+  
+  <select id="get" resultMap="boardResult">
+  	select * from board_tbl where bno = #{bno} 
+  </select>
+  
+  <select id="getReplyList" resultType="me.light.model.Reply">
+  	select * from reply_tbl where bno = #{bno} 
+  </select>
+  
+</mapper>

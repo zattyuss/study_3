@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="study"/>
+<aop-project name="oortCloud"/>
+<aop-project name="reply_ex-master"/>
+<aop-project name="board_ex"/>
+<aop-project name="security_ex"/>
+</aop-reference-model>

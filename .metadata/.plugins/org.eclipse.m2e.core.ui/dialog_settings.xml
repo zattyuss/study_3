@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="Gravityzone"/>
+			<item value="Quasarzone"/>
+			<item value="security_ex"/>
+			<item value="spring"/>
+			<item value="study"/>
+			<item value="spring_tutorial"/>
+			<item value="exid"/>
+			<item value="Pagin"/>
+			<item value="board_ex03"/>
+			<item value="board_ex02"/>
+			<item value="BlueLine"/>
+			<item value="impactWheyISOLATE"/>
+			<item value="metree"/>
+			<item value="chap16_ex-2"/>
+			<item value="chapter16ex"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Gravityzone"/>
+			<item value="Quasarzone"/>
+			<item value="security_ex"/>
+			<item value="spring"/>
+			<item value="study"/>
+			<item value="spring_tutorial"/>
+			<item value="exid"/>
+			<item value="Pagin"/>
+			<item value="board_ex03"/>
+			<item value="board_ex02"/>
+			<item value="BlueLine"/>
+			<item value="impactWheyISOLATE"/>
+			<item value="metree"/>
+			<item value="chap16_ex-2"/>
+			<item value="chapter16ex"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org."/>
+		</list>
+		<list key="groupId">
+			<item value="Chap16_ex"/>
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="Chap16_ex"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Chap16_ex"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\s\eclipse-workspace03\reply_ex-master"/>
+			<item value="C:\Users\s\eclipse-workspace03\board_ex01"/>
+			<item value="C:\Users\s\eclipse-workspace03\board_ex"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="240"/>
+		<item key="y" value="169"/>
+	</section>
+</section>

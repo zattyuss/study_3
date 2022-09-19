@@ -1,0 +1,5 @@
+1651558431672	Delete element
+1651560142958	Move 'WebContent' to 'webapp'
+1651560436411	Move 'menu.jspf' to 'layout'
+1651560449081	Move 'footer.jspf' to 'layout'
+1651560547576	Move 'layout' to 'webapp'

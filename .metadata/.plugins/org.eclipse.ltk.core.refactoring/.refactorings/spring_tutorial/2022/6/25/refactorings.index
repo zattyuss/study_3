@@ -1,0 +1,18 @@
+1655080032809	Move 'home.jsp' to 'views'
+1655080090748	Delete element
+1655080098211	Delete element
+1655080386408	Delete element
+1655082127542	Rename resource 'index.jsp'
+1655082984783	Rename package 'jo.jin.intercepter'
+1655082989748	Rename type 'TestIntercepter'
+1655084179491	Delete element
+1655084259955	Copy file
+1655084264451	Rename resource 'message.properties'
+1655090920950	Rename type 'BoardValidation'
+1655253752826	Rename type 'FieldMatchValidator'
+1655254106272	Rename type 'FiledMatchValidator'
+1655260736523	Delete element
+1655260828562	Rename package 'jo.jin.config'
+1655264736429	Rename compilation unit 'Mapper.java'
+1655269390002	Delete element
+1655277822845	Rename resource 'success.jsp'
